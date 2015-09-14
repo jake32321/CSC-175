@@ -1,0 +1,117 @@
+run:
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+1
+What is the player's last name?
+Lincoln
+Please enter the the hits for Lincoln
+40
+How many times was Lincoln at bat?
+150
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+2
+For which player do you want to calculate the batting average for?
+Lincoln
+The batting average for Lincoln was 0.26666666666666666
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+1
+What is the player's last name?
+Richards
+Please enter the the hits for Richards
+70
+How many times was Richards at bat?
+200
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+2
+For which player do you want to calculate the batting average for?
+Richards
+The batting average for Richards was 0.35
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+1
+What is the player's last name?
+Potter
+Please enter the the hits for Potter
+30
+How many times was Potter at bat?
+200
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+2
+For which player do you want to calculate the batting average for?
+Potter
+The batting average for Potter was 0.15
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+1
+What is the player's last name?
+Smith
+Please enter the the hits for Smith
+50
+How many times was Smith at bat?
+220
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+2
+For which player do you want to calculate the batting average for?
+Smith
+The batting average for Smith was 0.22727272727272727
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+3
+Please enter the last name of the new player.
+Jones
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+3
+Please enter the last name of the new player.
+Tyson
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+3
+Please enter the last name of the new player.
+Seinfeld
+Choose an Option: 
+1-Record an at bat performance by player.
+2-Find a players batting average.
+3-Add new player.
+4-Quit
+4
+ 
+BUILD SUCCESSFUL (total time: 2 minutes 14 seconds)
